@@ -16,8 +16,8 @@
 ### 📊 By The Numbers
 
 <a href="https://github.com/holaroluwa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holaroluwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holaroluwa&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=holaroluwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holaroluwa&layout=compact&theme=tokyonight"/>
 </a>
 
 </div>
@@ -38,7 +38,7 @@
 | **Cloud Whizlabs** | **Sales Engineering** | **Tech Nest** |
 |:---:|:---:|:---:|
 | ☁️ **Cloud Projects** | 🤝 **Presales & Demos** | 🦅 **Experimental Labs** |
-| [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio:/Cloud%20Whizlabs) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio:/Sales%20Engineering) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio:/Linas's%20Tech%20Nest%20Projects) |
+| [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio/Cloud%20Whizlabs) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio/Sales%20Engineering) | [View Projects](https://github.com/holaroluwa/My_Portfolio_/tree/main/Portfolio/Linas's%20Tech%20Nest%20Projects) |
 
 <br>
 
