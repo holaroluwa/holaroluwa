@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Founder+%7C+Builder+%7C+Seller;MockThatInterview+%E2%80%94+Interview+Coaching+for+Bootcamp+Grads;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=GTM+%7C+Builder+%7C+Seller;Founding+GTM+at+MockThatInterview;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  I build products, sell them, and share everything I learn along the way.<br>
-  Currently running <b>MockThatInterview</b> — live interview coaching for bootcamp and career-change grads.
+  I build go-to-market systems, sell into new markets, and share everything I learn along the way.<br>
+  Currently the <b>Founding GTM</b> at <b>MockThatInterview</b> — owning pipeline, outbound, and partnerships.
 </p>
 
 <p align="center">
@@ -17,14 +17,14 @@
 
 ---
 
-### What I'm Building
+### What I'm Working On
 
 <table>
 <tr>
 <td width="50%">
 
-**MockThatInterview**
-Live mock interview coaching for bootcamp and career-change grads. We run technical and behavioural rounds with real feedback — the reps that turn "I know the material" into "I got the job."
+**MockThatInterview** — Founding GTM
+Live mock interview coaching for bootcamp and career-change grads. I own the full go-to-market: ICP research, pipeline building, cold outbound, and partnership sales.
 
 Currently running B2B outbound to UK bootcamps and training providers.
 
@@ -61,16 +61,16 @@ Two content brands. WealthyOla covers sales, AI, and building in public. Salesve
 
 ### Currently
 
-- Launching B2B outbound for **MockThatInterview** — 21 UK bootcamps, 5-touch email sequences
-- Writing daily on **LinkedIn** and **Substack** about sales, AI, and building as a founder
+- **Founding GTM at MockThatInterview** — built the pipeline (100 accounts), running 5-touch cold outbound to 21 UK bootcamps
+- Writing daily on **LinkedIn** and **Substack** about sales, AI, and the GTM grind
 - Learning AWS cloud architecture
-- Using **Claude AI** as a daily co-builder for sales systems, content, and product development
+- Using **Claude AI** as a daily co-builder for sales systems, content, and GTM infrastructure
 
 ---
 
 ### Background
 
-Sales and cloud engineering. I've worked in presales, run demos, built pipelines, and shipped cloud projects. Now I'm applying all of it to building my own thing.
+Sales and cloud engineering. I've worked in presales, run demos, built pipelines, and shipped cloud projects. Now I'm applying all of it as the first GTM hire at an early-stage startup.
 
 I don't believe in waiting until it's perfect. I build, ship, learn, and share — publicly.
 
