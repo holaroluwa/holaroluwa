@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://mockthatinterview.com"><img src="https://img.shields.io/badge/mockthatinterview.com-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="https://linkedin.com/in/olaoluwa-odusanya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/WealthyOla"><img src="https://img.shields.io/badge/@WealthyOla-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/wealthy_ola_"><img src="https://img.shields.io/badge/@wealthy_ola_-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
